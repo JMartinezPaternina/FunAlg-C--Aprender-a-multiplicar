@@ -1,0 +1,103 @@
+[
+    {
+        "categoria": "matematicas",
+        "pregunta": "Selecciona los términos de la multiplicación:",
+        "respuesta": "Factor, factor, producto",
+        "incorrecta1": "Dividendo, divisor, resto, cociente",
+        "incorrecta2": "Minuendo, sustraendo, diferencia",
+        "incorrecta3": "Sumando, sumando, suma o producto",
+        "imagen": " ",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "matematicas",
+        "pregunta": "¿Cuál de las propiedades de la multiplicación indica que: “implica que, si reemplazamos algunos de los factores por el resultado de su multiplicación, el resultado es el mismo”?",
+        "respuesta": "Propiedad asociativa.",
+        "incorrecta1": "Propiedad disociativa.",
+        "incorrecta2": "Propiedad distributiva.",
+        "incorrecta3": "Propiedad conmutativa.",
+        "imagen": " ",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "matematicas",
+        "pregunta": "En un canasto tenemos 25 mangos, si hay tres canastos más con la misma cantidad de mangos, ¿cuantos mangos son en total?",
+        "respuesta": "75",
+        "incorrecta1": "85",
+        "incorrecta2": "74",
+        "incorrecta3": "25",
+        "imagen": " ",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "matematicas",
+        "pregunta": "José tiene 30.000 metros cuadrados en hectáreas de tierra, y quiere vender 10.000 metros cuadrados a 3.000.000.000, ¿Si vende todas las tierras, cuánto de dinero obtendría?",
+        "respuesta": "9.000.000.000",
+        "incorrecta1": "9.000.500.000",
+        "incorrecta2": "6.000.000.000",
+        "incorrecta3": "6.555.000.000",
+        "imagen": " ",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "matematicas",
+        "pregunta": "Camila se leyó 1 libro en 20 días. Ella leyó 16 páginas todos los días durante los primeros 15 días y 18 páginas todos los días durante los últimos 5 días. ¿Qué expresión usarías para encontrar cuántas páginas lee Camila?",
+        "respuesta": "15 × 16 + 5 × 18",
+        "incorrecta1": "20 × 16",
+        "incorrecta2": "18 × 5",
+        "incorrecta3": "16 + 18",
+        "imagen": " ",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "matematicas",
+        "pregunta": "En un terreno hay 330 parcelas y en cada una de ellas hay plantados 130 olivos. ¿Cuántos olivos hay en total en el terreno?",
+        "respuesta": "42, 900",
+        "incorrecta1": "42,000",
+        "incorrecta2": "41,999",
+        "incorrecta3": "42,993",
+        "imagen": " ",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "matematicas",
+        "pregunta": "Un sello de correos vale 52 pesos. ¿Cuánto valdrán 2 sellos?",
+        "respuesta": "104 pesos",
+        "incorrecta1": "90 dólares",
+        "incorrecta2": "114 pesos",
+        "incorrecta3": "114 euros.",
+        "imagen": " ",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "matematicas",
+        "pregunta": "Juan David tiene 12 bolsas de limones con 11 limones en cada bolsa ¿Cuántos limones tiene en total?",
+        "respuesta": "132",
+        "incorrecta1": "88",
+        "incorrecta2": "92",
+        "incorrecta3": "20",
+        "imagen": " ",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "matematicas",
+        "pregunta": "La multiplicación es:",
+        "respuesta": "Una operación binaria.",
+        "incorrecta1": "Fracciones.",
+        "incorrecta2": "Sumas",
+        "incorrecta3": "Operación numérica",
+        "imagen": " ",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "matematicas",
+        "pregunta": "Hay 24 horas en un día y 3600 segundos en una hora. ¿Cuántos segundos hay en un día?",
+        "respuesta": "86,400",
+        "incorrecta1": "72,000",
+        "incorrecta2": "864",
+        "incorrecta3": "7,000",
+        "imagen": " ",
+        "objectFit": "cover"
+    }
+    
+]
